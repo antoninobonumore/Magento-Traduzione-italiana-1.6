@@ -1,0 +1,22 @@
+{* This is a comment block
+
+In questo template sono disponibili le variabili:
+  - nome            Nome destinatario
+  - email           Indirizzo email destinatario
+  - product_name    Nome prodotto
+  - product_url     Url per il prodotto
+  - product_image   Url per l'immagine piccola del prodotto (75 px)
+  - messaggio         Mittente messaggio personalizzato
+  - sender_name     Nome mittente
+  - sender_email    Email mittente
+
+Utilizza variabili: {{var var_name}}
+*}<!--@subject Benvenuto, {{var name}} @-->
+<!--@vars
+{"htmlescape var=$name":"Recipient Name",
+"var product_url":"Url for Product",
+"var product_name":"Product Name",
+"var message":"Sender Message"}
+@-->
+
+Benvenuto, {{htmlescape var=$name}}<br /><br />Guarda qui <a href="{{var product_url}}">{{var product_name}}</a><br /><br />c'&egrave; un messaggio: <br />{{var message}}<br /><br />
