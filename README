@@ -1,6 +1,6 @@
 Installazione tramite pacchetto .zip
 
-1. Scaricate il file zip e estraete il suo contenuto nella root di Magento
+1. Scaricate il file zip, scompattatelo e copiate la cartella it_IT in /app/locale
 
 2. Per il Backend potete cambiare lingua nel form che si trova nel footer della pagina
 
