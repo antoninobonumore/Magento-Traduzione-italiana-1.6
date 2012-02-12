@@ -1,0 +1,22 @@
+Installazione tramite pacchetto .zip
+
+1. Scaricate il file zip e estraete il suo contenuto nella root di Magento
+
+2. Per il Backend potete cambiare lingua nel form che si trova nel footer della pagina
+
+3. Per il Frontend andate su System -> Configuration -> General nel tab Local Option e alla voce Locale impostate “Italian (Italy)”
+
+4. Aggiornate la Cache
+
+Allegato:
+
+Lingua Italiana – Traduzione Ufficiale Magento
+
+
+Correzione di bug della traduzione con Bugfix
+
+Dopo aver riscontrato alcuni errori propri di Magento, abbiamo provveduto a fixarli. Di seguito i fix per la versione attuale:
+
+Find_Feed: Per risolvere questo bug scaricate il file config.xml qua allegato e sostituitelo a quello originale presente in app/code/community/Find/Feed/etc
+
+Il Bugfix per la traduzione italiana di Magento è nella cartella omonima
