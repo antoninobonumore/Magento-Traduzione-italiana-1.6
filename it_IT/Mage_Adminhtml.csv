@@ -3,8 +3,8 @@
  and , e 
  note that the URLs provided below are the correct values for your current website): , nota che gli URL di seguito forniti sono i valori corretti per il tuo sito corrente): 
 %s (Default Template from Locale),%s (Template di Default da locale)
-%s cache type(s) disabled.,%s cache tipo(s) disabilitata.
-%s cache type(s) enabled.,%s cache tipo(s) abilitata.
+%s cache type(s) disabled.,%s cache tipo(i) disabilitata.
+%s cache type(s) enabled.,%s cache tipo(i) abilitata.
 %s cache type(s) refreshed.,%s cache tipo(s) aggiornata.
 "(For Type """"Local Server"""" need to use relative path to Magento install var/export or var/import, e.g. var/export, var/import, var/export/some/dir, var/import/some/dir)","(Per il tipo """"Server Locale"""" bisogna utilizzare il percorso relativo all\'installazione di Magento var/export o var/import, e.g. var/export, var/import, var/export/some/dir, var/import/some/dir)"
 (For US 2-letter state names),(Per US inserire 2 lettere per il nome dello stato)
